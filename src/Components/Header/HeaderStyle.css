@@ -1,0 +1,11 @@
+.Name{
+    text-align: center;
+    margin-left: 150px;
+    /* font-size:100px ; */
+}
+
+.Logos{
+     margin-left: 250px;
+     font-size: 30px;
+     gap: 10px;
+}
